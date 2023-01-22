@@ -1,0 +1,5 @@
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A3/build/CMakeFiles/wb.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A3/build/CMakeFiles/ListScan_Template.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A3/build/CMakeFiles/Histogram_Template.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jonny Apple Seed/Desktop/Homework/CSC 163/Labs/A3/build/CMakeFiles/ZERO_CHECK.dir
